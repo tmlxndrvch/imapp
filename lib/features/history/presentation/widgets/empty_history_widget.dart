@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// Widget to display when the history is empty. Unused
 class EmptyHistoryWidget extends StatelessWidget {
   const EmptyHistoryWidget({super.key});
 
